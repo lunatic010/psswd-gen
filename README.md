@@ -1,2 +1,2 @@
 # psswd-gen
-A random 12 character password generator
+A random password generator
